@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"print"
+			],
+			[
+				"n",
+				"nx"
+			],
+			[
+				"gree",
+				"greetG"
+			],
+			[
+				"re",
+				"reader"
+			],
+			[
+				"wr",
+				"writ"
+			],
+			[
+				"c",
+				"create"
+			],
+			[
+				"first",
+				"firstFunction"
+			],
+			[
+				"E",
+				"exception"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"my",
+				"my_height"
+			],
+			[
+				"my_h",
+				"my_height"
+			],
+			[
+				"There",
+				"There"
+			],
+			[
+				"cars_",
+				"cars_not_driven"
+			],
+			[
+				"ca",
+				"cars_driven"
+			],
+			[
+				"cars",
+				"cars_driven"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ste",
+				"setname"
+			],
+			[
+				"set",
+				"setnumber"
+			],
+			[
+				"stu",
+				"Student"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"w",
+				"webbrowser"
+			],
+			[
+				"i",
+				"I"
+			],
+			[
+				"word",
+				"wordpress"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vipinrai/Developer/Python/cookbook/p1.py",
+		"/Users/vipinrai/Desktop/abc.html",
+		"/Users/vipinrai/Desktop/workshop/mailer.py",
+		"/Users/vipinrai/Desktop/workshop/cs.py",
+		"/Users/vipinrai/Desktop/workshop/cop.py",
+		"/Users/vipinrai/Desktop/workshop/mlib.py",
+		"/Users/vipinrai/Desktop/workshop/test.py",
+		"/Users/vipinrai/Desktop/workshop/email2.py",
+		"/Users/vipinrai/Desktop/workshop/mail.py",
+		"/Users/vipinrai/Desktop/workshop/h.py",
+		"/Users/vipinrai/Desktop/workshop/classlib.py",
+		"/Users/vipinrai/Desktop/workshop/class7.py",
+		"/Users/vipinrai/Desktop/workshop/class6.py",
+		"/Users/vipinrai/Desktop/workshop/class5.py",
+		"/Users/vipinrai/Desktop/workshop/class4.py",
+		"/Users/vipinrai/Desktop/workshop/class3.py",
+		"/Users/vipinrai/Desktop/workshop/class2.py",
+		"/Users/vipinrai/Desktop/workshop/class1.py",
+		"/Users/vipinrai/Desktop/workshop/prime.py",
+		"/Users/vipinrai/Desktop/workshop/libtest.py",
+		"/Users/vipinrai/Desktop/workshop/mylib.py",
+		"/Users/vipinrai/Desktop/workshop/thirteen.py",
+		"/Users/vipinrai/Desktop/workshop/fourteen.py",
+		"/Users/vipinrai/Desktop/workshop/fifteen.py",
+		"/Users/vipinrai/Desktop/workshop/sixteen.py",
+		"/Users/vipinrai/Desktop/workshop/feven.py",
+		"/Users/vipinrai/Desktop/workshop/exception.py",
+		"/Users/vipinrai/Desktop/workshop/twelve.py",
+		"/Users/vipinrai/Desktop/workshop/eleven.py",
+		"/Users/vipinrai/Desktop/workshop/nine.py",
+		"/Users/vipinrai/Desktop/workshop/eight.py",
+		"/Users/vipinrai/Desktop/workshop/seven.py",
+		"/Users/vipinrai/Desktop/workshop/six.py",
+		"/Users/vipinrai/Desktop/workshop/five.py",
+		"/Users/vipinrai/Desktop/workshop/four.py",
+		"/Users/vipinrai/Desktop/workshop/three.py",
+		"/Users/vipinrai/Desktop/workshop/two.py",
+		"/Users/vipinrai/Sites/test.php",
+		"/Users/vipinrai/Desktop/x.html",
+		"/Users/vipinrai/Desktop/ThrowDemo.java",
+		"/Users/vipinrai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vipinrai/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/vipinrai/Desktop/testprog.java",
+		"/Users/vipinrai/Desktop/a.c",
+		"/Users/vipinrai/Developer/Python/import RPi.GPIO as GPIO.py",
+		"/Users/vipinrai/Desktop/untitled folder/:home:user:> sudo fdisk :dev:sdd",
+		"/Users/vipinrai/Developer/java/abc.java",
+		"/Users/vipinrai/Developer/java/x.java",
+		"/Users/vipinrai/Desktop/b.c",
+		"/Users/vipinrai/Desktop/v.c",
+		"/Users/vipinrai/Developer/html/krishna project/index.html",
+		"/Users/vipinrai/Developer/html/sese",
+		"/Users/vipinrai/Developer/html/test.html",
+		"/Users/vipinrai/Developer/html/people ---> permissions ------> roles",
+		"/Users/vipinrai/Developer/c/app.c",
+		"/Users/vipinrai/Downloads/wordpress/wp-includes/SimplePie/Decode/HTML/Entities.php",
+		"/Users/vipinrai/Developer/Python/hw6.py",
+		"/Users/vipinrai/Developer/Python/hw5.py",
+		"/Users/vipinrai/Developer/Python/hw.py",
+		"/Users/vipinrai/Developer/Python/Oi",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p10.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p9.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p8.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p7.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p6.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p5.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p4.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p3.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p2.c",
+		"/Users/vipinrai/Desktop/Notes/cg progs/p1.c",
+		"/Users/vipinrai/Desktop/m.c",
+		"/Users/vipinrai/Developer/java/studentdb.java",
+		"/Users/vipinrai/Developer/java/pgm2.java",
+		"/Users/vipinrai/Developer/java/student.java",
+		"/Users/vipinrai/Desktop/test.html",
+		"/Users/vipinrai/Desktop/Developer/html/krishna project/resume.html",
+		"/Users/vipinrai/Downloads/mediagiri-main 2/index.html",
+		"/Users/vipinrai/Developer/Python/mark/markunixscript",
+		"/Users/vipinrai/Developer/Python/mark/mark1.py",
+		"/Users/vipinrai/Developer/udacity2.py",
+		"/Users/vipinrai/Developer/udacity.py",
+		"/Users/vipinrai/Developer/resume.html",
+		"/Users/vipinrai/Developer/stylesheet.css",
+		"/Users/vipinrai/Developer/Python/learn.py",
+		"/Users/vipinrai/Downloads/SolarSystem-master/Practical5/main.cpp",
+		"/Users/vipinrai/Desktop/Login and Registration Example in JSP with Session | javaknowledge.html",
+		"/Users/vipinrai/Downloads/BeetBox-master/beetbox.py",
+		"/Users/vipinrai/Desktop/Login and Logout Using JSP in Java_files/api.js",
+		"/Users/vipinrai/Developer/p1.py",
+		"/Users/vipinrai/Desktop/Login and Logout Using JSP in Java_files/2006856415-postmessagerelay.js",
+		"/Users/vipinrai/Desktop/cn.c",
+		"/Users/vipinrai/Desktop/work in progress/Home_files/touchTouch.jquery.js",
+		"/Users/vipinrai/uninstall_homebrew.sh",
+		"/Users/vipinrai/Downloads/gist1173223-afa922fc4ea5851578f4680c6ac11a54a84ff20c/uninstall_homebrew.sh",
+		"/Applications/MAMP/htdocs/mfw/wp-admin/install.php",
+		"/Applications/MAMP/htdocs/mfw/wp-config-sample.php",
+		"/Applications/MAMP/htdocs/mfw/wp-settings.php",
+		"/Applications/MAMP/htdocs/mfw/wp-config.php",
+		"/Users/vipinrai/Documents/phpinfo.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
